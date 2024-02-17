@@ -1,3 +1,4 @@
+
 1st Lecture:
 We'll learn some prompting best practices for software development, then we'll cover some common use cases, summarizing, inferring, transforming, expanding, and then we'll build a chatbot 
 using an LLM. We hope that this will spark our imagination about new applications that you can build. So in the development of large language models or LLMs, there have been broadly two types of LLMs.
