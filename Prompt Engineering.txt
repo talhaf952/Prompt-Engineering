@@ -9,4 +9,4 @@ on a large amount of data from the
 internet and other sources to figure out what's the next 
 most likely word to follow. So, for example, if you were to prompt us once 
 upon a time there was a unicorn, it may complete 
-this, that is it may predict the next several words are that 
+this, that is it may predict the next several words are
