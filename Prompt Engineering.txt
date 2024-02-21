@@ -16,3 +16,5 @@ They are less likely to output problematic text such as toxic outputs compared t
 So, when you use an instruction-tuned LLM, think of giving instructions to another person, say someone that's smart but doesn't know the specifics of your task. So, when an LLM doesn't work, sometimes it's because the instructions weren't clear enough.
 Example:
 if you were to say, please write me something about Alan Turing. Well, in addition to that, it can be helpful to be clear about whether you want the text to focus on his cientific work or his personal life or his role in history or something else. See examples of how to be clear and specific, which is an important principle of prompting LLMs. And you also learn from Isa a second principle of prompting that is giving the LLM time to think. 
+
+Lecture 2:  Guidelines
