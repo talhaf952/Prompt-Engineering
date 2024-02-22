@@ -21,3 +21,5 @@ Lecture 2:  Guidelines
 Two key principles for how to write prompts to prompt engineering effectively
 1st Principle: Is to write clear and specific instructions.
 2nd Principle is to give the model time to think.
+
+Note: We will use openAI Python Library to access the OpenAI API, we can install it like "pip.install.openai"
