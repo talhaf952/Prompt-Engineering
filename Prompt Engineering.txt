@@ -24,3 +24,8 @@ Two key principles for how to write prompts to prompt engineering effectively
 Note: We will use openAI Python Library to access the OpenAI API, we can install it like "pip.install.openai"
 
 The first tactic to help you write clear and specific instructions is to use delimiters to clearly indicate distinct parts of the input.
+
+
+
+
+Lecture 3:
