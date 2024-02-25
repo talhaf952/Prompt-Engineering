@@ -34,6 +34,9 @@ openai.api_key  = os.getenv('OPENAI_API_KEY')
 helper function
 Throughout this course, we will use OpenAI's gpt-3.5-turbo model and the chat completions endpoint.
 
+This helper function will make it easier to use prompts and look at the generated outputs.
+Note: In June 2023, OpenAI updated gpt-3.5-turbo. The results you see in the notebook may be slightly different than those in the video. Some of the prompts have also been slightly modified to product the desired results.
+
 The first tactic to help you write clear and specific instructions is to use delimiters to clearly indicate distinct parts of the input.
 
 
