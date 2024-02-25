@@ -23,6 +23,14 @@ Two key principles for how to write prompts to prompt engineering effectively
 
 Note: We will use openAI Python Library to access the OpenAI API, we can install it like "pip.install.openai"
 
+Load the API key and relevant Python libaries.
+
+import openai
+import os
+from dotenv import load_dotenv, find_dotenv
+_ = load_dotenv(find_dotenv())
+openai.api_key  = os.getenv('OPENAI_API_KEY')
+
 The first tactic to help you write clear and specific instructions is to use delimiters to clearly indicate distinct parts of the input.
 
 
